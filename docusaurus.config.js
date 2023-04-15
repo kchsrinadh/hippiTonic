@@ -18,12 +18,23 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
+<<<<<<< Updated upstream
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
+=======
+  organizationName: 'hippiTonic', // Usually your GitHub org/user name.
+  projectName: 'kTonic.github.io', // Usually your repo name.
+  trailingSlash: false,
+  deploymentBranch : 'gh-pages',
+  
+  onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'warn',
+  
+>>>>>>> Stashed changes
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
