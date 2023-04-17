@@ -23,6 +23,7 @@ const config = {
   organizationName: 'hippiTonic', // Usually your GitHub org/user name.
 
 
+
   projectName: 'hippitonic', // Usually your repo name.
   trailingSlash: false,
   deploymentBranch : 'gh-pages',
