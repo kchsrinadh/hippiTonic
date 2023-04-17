@@ -22,7 +22,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'kchsrinadh', // Usually your GitHub org/user name.
 
-  
+
   projectName: 'hippitonic', // Usually your repo name.
   trailingSlash: false,
   deploymentBranch : 'gh-pages',
