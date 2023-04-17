@@ -11,7 +11,8 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://ktonic.github.io',
+
+  url: 'https://hippiTonic.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -19,7 +20,8 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'hippiTonic', // Usually your GitHub org/user name.
-  projectName: 'kTonic', // Usually your repo name.
+
+  projectName: 'hippiTonic.github.io', // Usually your repo name.
   trailingSlash: false,
   deploymentBranch : 'gh-pages',
   
