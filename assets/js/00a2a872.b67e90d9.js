@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhippi_tonic=self.webpackChunkhippi_tonic||[]).push([[3142],{9837:o=>{o.exports=JSON.parse('{"permalink":"/hippitonic/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
