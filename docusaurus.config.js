@@ -13,7 +13,8 @@ const config = {
   // Set the production url of your site here
 
 
-  url: 'https://hippitonic.github.io',
+
+  url: 'https://kchsrinadh.github.io/hippitonic',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -23,7 +24,8 @@ const config = {
   organizationName: 'hippiTonic', // Usually your GitHub org/user name.
 
 
-  projectName: 'hippitonic.github.io', // Usually your repo name.
+
+  projectName: 'hippitonic', // Usually your repo name.
   trailingSlash: false,
   deploymentBranch : 'gh-pages',
   
