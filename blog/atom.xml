@@ -2,11 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kchsrinadh.github.io/hippitonic/blog</id>
     <title>hippiTonic Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2023-05-04T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kchsrinadh.github.io/hippitonic/blog"/>
     <subtitle>hippiTonic Blog</subtitle>
     <icon>https://kchsrinadh.github.io/hippitonic/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Why]]></title>
+        <id>https://kchsrinadh.github.io/hippitonic/blog/why</id>
+        <link href="https://kchsrinadh.github.io/hippitonic/blog/why"/>
+        <updated>2023-05-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Warmth of mother,]]></summary>
+        <content type="html"><![CDATA[<p>The Warmth of mother,<br>
+<!-- -->The Care of father,<br>
+<!-- -->The Sky high dreams,<br>
+<!-- -->The Silly friends and stupid laughs,<br>
+<!-- -->The Endless world to explore,<br>
+<!-- -->The Peaks of Lows and the Highs of joy.<br>
+<!-- -->Huffff….  </p><br>Think you are 80 yrs old.  <br>Looking back these memories with content and smile.  <br>Might feel, Wow thats hell of a ride….<br>Then One day, you die.<br><br>But,<br>Why ?<br>What for all these ??<br><br><br>I seek, I order, I beg, I mad, I yearn, I cry, what not..<br>No matter the case, answer didn't emerge.<br>Should accept defeat or fight .. . don’t know…<br><br>Can one teach ant, Quantum theory ?<br>Can one teach human, Universe ?<br>Don’t know..<br><br>It seems though the entire life on this planet is trying to become a better intelligent being.. <br>Generation by generation… even the intelligence is passed on via genes… <br><br><br>Will I or my future self..<br>In one of the life times become intelligent enough ?<br><br>Is the only thing that can answer this Why is time ?]]></content>
+        <author>
+            <name>Srinadh</name>
+            <uri>https://github.com/kchsrinadh</uri>
+        </author>
+        <category label="why" term="why"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://kchsrinadh.github.io/hippitonic/blog/welcome</id>

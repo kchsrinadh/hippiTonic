@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhippi_tonic=self.webpackChunkhippi_tonic||[]).push([[172],{2552:i=>{i.exports=JSON.parse('{"label":"why","permalink":"/hippitonic/blog/tags/why","allTagsPath":"/hippitonic/blog/tags","count":1}')}}]);
