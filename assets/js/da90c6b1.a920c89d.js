@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhippi_tonic=self.webpackChunkhippi_tonic||[]).push([[9787],{7190:i=>{i.exports=JSON.parse('{"label":"facebook","permalink":"/hippitonic/blog/tags/facebook","allTagsPath":"/hippitonic/blog/tags","count":1}')}}]);

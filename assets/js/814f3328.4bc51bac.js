@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhippi_tonic=self.webpackChunkhippi_tonic||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Why","permalink":"/hippitonic/blog/why"},{"title":"Welcome","permalink":"/hippitonic/blog/welcome"}]}')}}]);
