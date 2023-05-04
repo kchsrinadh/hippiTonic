@@ -1,6 +1,6 @@
 ---
-slug: test
-title: test
+slug: why
+title: why
 authors: [srinadh]
 tags: [life]
 ---
